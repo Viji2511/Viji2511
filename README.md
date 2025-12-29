@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Viji2511/Viji2511/blob/main/assets/A-stylized-map-of-the-Star-Wars-galaxy-featuring-key-planets-and-routes-for-enthusiasts-looking-for-lore-based-Star-Wars-PC-backgrounds_webp%203%2C840%C3%972%2C160%20pixels.jpeg" width="180" style="border-radius: 50%;" />
+  <img src="https://github.com/Viji2511/Viji2511/blob/main/assets/A-stylized-map-of-the-Star-Wars-galaxy-featuring-key-planets-and-routes-for-enthusiasts-looking-for-lore-based-Star-Wars-PC-backgrounds_webp%203%2C840%C3%972%2C160%20pixels.jpeg" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
