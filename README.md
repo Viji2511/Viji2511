@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/avatar.png" width="180" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7F3ACE&center=true&vCenter=true&width=600&lines=AI+%7C+IoT+%7C+Full+Stack+Developer;Building+Practical+Systems" />
+</p>
+
 # 💫 About Me:
 An engineering student interested in AI-driven and full-stack systems.  
 I focus on building solutions that are functional, scalable, and well-designed.  
