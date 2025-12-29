@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/avatar.png" width="180" style="border-radius: 50%;" />
+  <img src="assets/A-stylized-map-of-the-Star-Wars-galaxy-featuring-key-planets-and-routes-for-enthusiasts-looking-for-lore-based-Star-Wars-PC-backgrounds_webp 3,840×2,160 pixels.png" width="180" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
